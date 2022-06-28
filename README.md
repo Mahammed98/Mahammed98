@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammed El Nabawy, Mechatronics Engineer, Graduated from Higher Technology Institute of 10th of Ramadan 
 - 👀 I’m interested in Embedded Systems & IOT
-- 🌱 I’m currently learning C&C++ programming language, and python programming 
+- 🌱 I’m currently learning C and python programming, Also learn wep devolpment(HTML, CSS, and JS)
 - 📫 How to reach me mahamaedmedo0122@gmail.com
 
 <!---
